@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Perl related to the unpredictable order of iteration when traversing hashes. The `bug.pl` file showcases the problem, while `bugSolution.pl` provides a solution that guarantees a specific order, using `sort` to control the key order.
